@@ -47,8 +47,6 @@ Categories=Utility;"
 echo "$DESKTOP_CONTENT" > "$DESKTOP_DIR/$SAFE_NAME.desktop"
 chmod +x "$DESKTOP_DIR/$SAFE_NAME.desktop"
 cp "$DESKTOP_DIR/$SAFE_NAME.desktop" "$HYPR_DIR/"
-
-# --- Success UI ---
 echo -e "${GREEN}${BOLD}Installation Complete!${NC}"
 echo -e "--------------------------------------"
 echo -e "${CYAN}App Name:${NC}  $APP_NAME"
