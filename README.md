@@ -12,6 +12,7 @@ The application supports both **online** and **offline** text-to-speech modes.
 * Online and offline text-to-speech
 * MP3 audio output
 * Cross-distro Linux support
+* change the speed  0.5x , 1x , 2x
 
 ## Online vs Offline Mode
 
