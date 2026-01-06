@@ -90,6 +90,3 @@ Made by great contributors:
 
 * **ghvbb**
 * **wachawo**
-
----
-* includes Tkinter packa
